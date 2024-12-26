@@ -1,2 +1,2 @@
-# Nike_2
+# Nike
 https://garteks.github.io/Nike/
